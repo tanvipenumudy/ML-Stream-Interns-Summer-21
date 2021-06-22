@@ -1,1 +1,1 @@
-Add README
+The Datasets and images used are present in content folder..
