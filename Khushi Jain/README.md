@@ -3,6 +3,7 @@ Add README
 [Linear Regression](https://khushijain2810.medium.com/linear-regression-9fd219098405)<br />
 [OpenCV](https://khushijain2810.medium.com/introduction-to-opencv-586e38d536fd)<br/>
 [Seaborn](https://khushijain2810.medium.com/seaborn-data-visualization-library-142ac64d5560)<br/>
+[KNN Algorithm](https://khushijain2810.medium.com/k-nearest-neighbors-aac72032aaea)<br/>
 [Pandas](https://khushijain2810.medium.com/pandas-python-data-analysis-library-1d061c982fc8)<br/>
 [Numpy](https://khushijain2810.medium.com/numpy-day-3-at-internity-foundation-efcef826e549)<br/>
 [Linear Algebra using NumPy and SciPy](https://khushijain2810.medium.com/linear-algebra-using-numpy-and-scipy-390be43d1cb0)<br/>
