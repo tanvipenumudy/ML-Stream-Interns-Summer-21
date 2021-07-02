@@ -1,5 +1,6 @@
 Add README
 ### Blog Links
+[K-Means Clustering](https://khushijain2810.medium.com/k-means-python-implementation-from-scratch-8400f30b8e5c)<br/>
 [Naive Bayes](https://khushijain2810.medium.com/naive-bayes-algorithm-implementation-from-scratch-f9a2a12789b5)<br/>
 [Linear Regression](https://khushijain2810.medium.com/linear-regression-9fd219098405)<br />
 [OpenCV](https://khushijain2810.medium.com/introduction-to-opencv-586e38d536fd)<br/>
