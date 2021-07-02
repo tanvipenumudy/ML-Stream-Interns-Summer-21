@@ -1,5 +1,6 @@
 Add README
 ### Blog Links
+[Naive Bayes](https://khushijain2810.medium.com/naive-bayes-algorithm-implementation-from-scratch-f9a2a12789b5)
 [Linear Regression](https://khushijain2810.medium.com/linear-regression-9fd219098405)<br />
 [OpenCV](https://khushijain2810.medium.com/introduction-to-opencv-586e38d536fd)<br/>
 [Seaborn](https://khushijain2810.medium.com/seaborn-data-visualization-library-142ac64d5560)<br/>
