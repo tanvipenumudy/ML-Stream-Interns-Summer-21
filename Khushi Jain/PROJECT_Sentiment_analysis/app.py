@@ -14,7 +14,7 @@ nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 wordnet = WordNetLemmatizer()
 
-mnb, tfidf, le = pickle.load(open('/content/drive/MyDrive/Datasets/naivebayes.pkl', 'rb'))
+mnb, tfidf, le = pickle.load(open('/content/naivebayes.pkl', 'rb'))
 
 def clean_data(X):
   # corpus = []
