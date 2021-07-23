@@ -1,1 +1,1 @@
-The Datasets and images used are present in content folder..
+The Dataset link of the project : https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
